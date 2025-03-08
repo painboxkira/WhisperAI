@@ -18,7 +18,7 @@ Ce projet Python propose une démonstration technique simple et intuitive permet
 Installez les dépendances nécessaires avec la commande suivante :
 
 ```bash
-pip install openai yt-dlp tkinter
+pip install openai yt-dlp tkinter || winget install ffmpeg
 ```
 
 ---
